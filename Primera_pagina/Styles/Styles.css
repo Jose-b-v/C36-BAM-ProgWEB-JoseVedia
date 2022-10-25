@@ -1,0 +1,38 @@
+header{
+    text-decoration: underline;
+}
+.logo{
+    width: 50px;
+}
+.Subra{
+    color: blue;
+font-weight: bolder;
+}
+span1{
+    color: blueviolet;
+    font-weight: lighter;
+}
+.Principal{
+    height: 400px;
+    width: 800px;
+    margin-left:20px;
+}
+.imapri{
+    margin-left: 30px;
+    width: 200px;
+}
+.listado{
+    height: 600px;
+    width: 800px;
+    margin-left:20px;
+}
+.Articulo{
+    margin-left:20px;
+}
+li{
+    text-decoration: underline;
+}
+footer{
+    height: 6rem;
+    background-color: rgb(189, 186, 186);
+}
